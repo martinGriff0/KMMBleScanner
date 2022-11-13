@@ -1,0 +1,277 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [:shared] /Users/griff/AndroidStudioProjects/KMMBleScanner/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/griff/.gradle/caches/transforms-3/a7b614aa49b2d322700232e66cbb2ec0/transformed/ui-tooling-1.2.1/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.compose.material:material:1.2.1] /Users/griff/.gradle/caches/transforms-3/63b6a010d97bb47037dd8a4ab78d05e7/transformed/material-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /Users/griff/.gradle/caches/transforms-3/8e00c21ded6ab808fe99e183a0654bf4/transformed/material-ripple-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /Users/griff/.gradle/caches/transforms-3/f49d6e72a1427967d6c1eb6074633b53/transformed/foundation-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/griff/.gradle/caches/transforms-3/d71c43cf08e993962f8786f9b5932c9c/transformed/activity-compose-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/griff/.gradle/caches/transforms-3/07c09baf68853dc8c1be32aa3a273f49/transformed/animation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/griff/.gradle/caches/transforms-3/1a4b4d7f9ba43097aedff713be909584/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /Users/griff/.gradle/caches/transforms-3/45d119dc37784a94f1606e14ed2b9e78/transformed/foundation-layout-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /Users/griff/.gradle/caches/transforms-3/628185c6568ad3b9d29d30bcfa2e9cfe/transformed/material-icons-core-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/griff/.gradle/caches/transforms-3/bda381ad602d9a4c501b1ec75878224a/transformed/animation-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/griff/.gradle/caches/transforms-3/2cb82df905438d1b9a47ed0734fb9e16/transformed/ui-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/griff/.gradle/caches/transforms-3/43b31618d12abcd1c7a67ff1726725d5/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/griff/.gradle/caches/transforms-3/d5fd0438b32b4b2afd129be14a05a1aa/transformed/ui-text-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/griff/.gradle/caches/transforms-3/5b2eae79bd54a62c2d5317453d17d918/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/griff/.gradle/caches/transforms-3/0e46c473cefe781b211e1ce64e5fb1d5/transformed/ui-graphics-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/griff/.gradle/caches/transforms-3/7e61c546662559de12d0a5a6f8a405e3/transformed/ui-unit-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/griff/.gradle/caches/transforms-3/65e1e2fd9180689238cd6018df75c2b2/transformed/ui-geometry-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/griff/.gradle/caches/transforms-3/7738c0a39990bd6282340c0895eb075c/transformed/runtime-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/griff/.gradle/caches/transforms-3/85f92cab0942e3f96630d46097dcb1b0/transformed/activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/griff/.gradle/caches/transforms-3/e70e3233a1a0da5c4c0112ddb5b47e9b/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/griff/.gradle/caches/transforms-3/20a64fb7315bd7e028c2f66c70a211b1/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/griff/.gradle/caches/transforms-3/bf1a7cf2bb540240465214df2a7f06ad/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/griff/.gradle/caches/transforms-3/3ede7c9d5b520ac9c88b8f40bf543d8f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/griff/.gradle/caches/transforms-3/e1b4eb29c4cf8c68e9f3373b9ea84aaf/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/griff/.gradle/caches/transforms-3/d03d824cb2c98bf33a01d4f7447cd622/transformed/ui-util-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/griff/.gradle/caches/transforms-3/d80ff7ebc0c12379d01082cfeae264ca/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/griff/.gradle/caches/transforms-3/81a9e3b9faffb707dab3282139fe5ef1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/griff/.gradle/caches/transforms-3/89baa08a979518153b02657b8f8f8b9d/transformed/core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/griff/.gradle/caches/transforms-3/b56da23475b75e058acd0b0005253bf3/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/griff/.gradle/caches/transforms-3/c9dd080e4939edc718ea5440a1f06ee1/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /Users/griff/.gradle/caches/transforms-3/10634acf96c8b2d41780170076f28ac9/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/griff/.gradle/caches/transforms-3/cf8f304308400d7d5a87ee39485388b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/griff/.gradle/caches/transforms-3/bfd667ceea8c66caaa3f136eb0588f4d/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/griff/.gradle/caches/transforms-3/b8494797f1f61ab22de8a3c332fba216/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/griff/.gradle/caches/transforms-3/9e96f5fe66a2e3834e9d5c7c0673d19d/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/griff/.gradle/caches/transforms-3/abb2d2380b249e0db178a01e42b3a532/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/griff/.gradle/caches/transforms-3/fa18ea3694ff1da0bdfeef6e2621dfb7/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/griff/.gradle/caches/transforms-3/b856b60e4fe177e3c70811c7841243a3/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_BLUETOOTH_ADMIN
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:6:5-85
+	android:name
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:6:22-82
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:10:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:14:22-70
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:15:22-74
+application
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:17:5-29:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/griff/.gradle/caches/transforms-3/a7b614aa49b2d322700232e66cbb2ec0/transformed/ui-tooling-1.2.1/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/griff/.gradle/caches/transforms-3/a7b614aa49b2d322700232e66cbb2ec0/transformed/ui-tooling-1.2.1/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.core:core:1.8.0] /Users/griff/.gradle/caches/transforms-3/10634acf96c8b2d41780170076f28ac9/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/griff/.gradle/caches/transforms-3/10634acf96c8b2d41780170076f28ac9/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/griff/.gradle/caches/transforms-3/cf8f304308400d7d5a87ee39485388b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/griff/.gradle/caches/transforms-3/cf8f304308400d7d5a87ee39485388b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/griff/.gradle/caches/transforms-3/abb2d2380b249e0db178a01e42b3a532/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/griff/.gradle/caches/transforms-3/abb2d2380b249e0db178a01e42b3a532/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/griff/.gradle/caches/transforms-3/10634acf96c8b2d41780170076f28ac9/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:19:9-35
+	android:allowBackup
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:18:9-36
+	android:theme
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:20:9-40
+activity#com.example.kmmblescanner.android.MainActivity
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:21:9-28:20
+	android:exported
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/griff/AndroidStudioProjects/KMMBleScanner/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/griff/AndroidStudioProjects/KMMBleScanner/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/griff/.gradle/caches/transforms-3/a7b614aa49b2d322700232e66cbb2ec0/transformed/ui-tooling-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/griff/.gradle/caches/transforms-3/a7b614aa49b2d322700232e66cbb2ec0/transformed/ui-tooling-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material:1.2.1] /Users/griff/.gradle/caches/transforms-3/63b6a010d97bb47037dd8a4ab78d05e7/transformed/material-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material:1.2.1] /Users/griff/.gradle/caches/transforms-3/63b6a010d97bb47037dd8a4ab78d05e7/transformed/material-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /Users/griff/.gradle/caches/transforms-3/8e00c21ded6ab808fe99e183a0654bf4/transformed/material-ripple-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /Users/griff/.gradle/caches/transforms-3/8e00c21ded6ab808fe99e183a0654bf4/transformed/material-ripple-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /Users/griff/.gradle/caches/transforms-3/f49d6e72a1427967d6c1eb6074633b53/transformed/foundation-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /Users/griff/.gradle/caches/transforms-3/f49d6e72a1427967d6c1eb6074633b53/transformed/foundation-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/griff/.gradle/caches/transforms-3/d71c43cf08e993962f8786f9b5932c9c/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/griff/.gradle/caches/transforms-3/d71c43cf08e993962f8786f9b5932c9c/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/griff/.gradle/caches/transforms-3/07c09baf68853dc8c1be32aa3a273f49/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/griff/.gradle/caches/transforms-3/07c09baf68853dc8c1be32aa3a273f49/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/griff/.gradle/caches/transforms-3/1a4b4d7f9ba43097aedff713be909584/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/griff/.gradle/caches/transforms-3/1a4b4d7f9ba43097aedff713be909584/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /Users/griff/.gradle/caches/transforms-3/45d119dc37784a94f1606e14ed2b9e78/transformed/foundation-layout-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /Users/griff/.gradle/caches/transforms-3/45d119dc37784a94f1606e14ed2b9e78/transformed/foundation-layout-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /Users/griff/.gradle/caches/transforms-3/628185c6568ad3b9d29d30bcfa2e9cfe/transformed/material-icons-core-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /Users/griff/.gradle/caches/transforms-3/628185c6568ad3b9d29d30bcfa2e9cfe/transformed/material-icons-core-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/griff/.gradle/caches/transforms-3/bda381ad602d9a4c501b1ec75878224a/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/griff/.gradle/caches/transforms-3/bda381ad602d9a4c501b1ec75878224a/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/griff/.gradle/caches/transforms-3/2cb82df905438d1b9a47ed0734fb9e16/transformed/ui-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/griff/.gradle/caches/transforms-3/2cb82df905438d1b9a47ed0734fb9e16/transformed/ui-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/griff/.gradle/caches/transforms-3/43b31618d12abcd1c7a67ff1726725d5/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/griff/.gradle/caches/transforms-3/43b31618d12abcd1c7a67ff1726725d5/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/griff/.gradle/caches/transforms-3/d5fd0438b32b4b2afd129be14a05a1aa/transformed/ui-text-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/griff/.gradle/caches/transforms-3/d5fd0438b32b4b2afd129be14a05a1aa/transformed/ui-text-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/griff/.gradle/caches/transforms-3/5b2eae79bd54a62c2d5317453d17d918/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/griff/.gradle/caches/transforms-3/5b2eae79bd54a62c2d5317453d17d918/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/griff/.gradle/caches/transforms-3/0e46c473cefe781b211e1ce64e5fb1d5/transformed/ui-graphics-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/griff/.gradle/caches/transforms-3/0e46c473cefe781b211e1ce64e5fb1d5/transformed/ui-graphics-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/griff/.gradle/caches/transforms-3/7e61c546662559de12d0a5a6f8a405e3/transformed/ui-unit-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/griff/.gradle/caches/transforms-3/7e61c546662559de12d0a5a6f8a405e3/transformed/ui-unit-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/griff/.gradle/caches/transforms-3/65e1e2fd9180689238cd6018df75c2b2/transformed/ui-geometry-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/griff/.gradle/caches/transforms-3/65e1e2fd9180689238cd6018df75c2b2/transformed/ui-geometry-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/griff/.gradle/caches/transforms-3/7738c0a39990bd6282340c0895eb075c/transformed/runtime-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/griff/.gradle/caches/transforms-3/7738c0a39990bd6282340c0895eb075c/transformed/runtime-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/griff/.gradle/caches/transforms-3/85f92cab0942e3f96630d46097dcb1b0/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/griff/.gradle/caches/transforms-3/85f92cab0942e3f96630d46097dcb1b0/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/griff/.gradle/caches/transforms-3/e70e3233a1a0da5c4c0112ddb5b47e9b/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/griff/.gradle/caches/transforms-3/e70e3233a1a0da5c4c0112ddb5b47e9b/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/griff/.gradle/caches/transforms-3/20a64fb7315bd7e028c2f66c70a211b1/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/griff/.gradle/caches/transforms-3/20a64fb7315bd7e028c2f66c70a211b1/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/griff/.gradle/caches/transforms-3/bf1a7cf2bb540240465214df2a7f06ad/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/griff/.gradle/caches/transforms-3/bf1a7cf2bb540240465214df2a7f06ad/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/griff/.gradle/caches/transforms-3/3ede7c9d5b520ac9c88b8f40bf543d8f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/griff/.gradle/caches/transforms-3/3ede7c9d5b520ac9c88b8f40bf543d8f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/griff/.gradle/caches/transforms-3/e1b4eb29c4cf8c68e9f3373b9ea84aaf/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/griff/.gradle/caches/transforms-3/e1b4eb29c4cf8c68e9f3373b9ea84aaf/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/griff/.gradle/caches/transforms-3/d03d824cb2c98bf33a01d4f7447cd622/transformed/ui-util-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/griff/.gradle/caches/transforms-3/d03d824cb2c98bf33a01d4f7447cd622/transformed/ui-util-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/griff/.gradle/caches/transforms-3/d80ff7ebc0c12379d01082cfeae264ca/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/griff/.gradle/caches/transforms-3/d80ff7ebc0c12379d01082cfeae264ca/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/griff/.gradle/caches/transforms-3/81a9e3b9faffb707dab3282139fe5ef1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/griff/.gradle/caches/transforms-3/81a9e3b9faffb707dab3282139fe5ef1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/griff/.gradle/caches/transforms-3/89baa08a979518153b02657b8f8f8b9d/transformed/core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/griff/.gradle/caches/transforms-3/89baa08a979518153b02657b8f8f8b9d/transformed/core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/griff/.gradle/caches/transforms-3/b56da23475b75e058acd0b0005253bf3/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/griff/.gradle/caches/transforms-3/b56da23475b75e058acd0b0005253bf3/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/griff/.gradle/caches/transforms-3/c9dd080e4939edc718ea5440a1f06ee1/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/griff/.gradle/caches/transforms-3/c9dd080e4939edc718ea5440a1f06ee1/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/griff/.gradle/caches/transforms-3/10634acf96c8b2d41780170076f28ac9/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/griff/.gradle/caches/transforms-3/10634acf96c8b2d41780170076f28ac9/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/griff/.gradle/caches/transforms-3/cf8f304308400d7d5a87ee39485388b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/griff/.gradle/caches/transforms-3/cf8f304308400d7d5a87ee39485388b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/griff/.gradle/caches/transforms-3/bfd667ceea8c66caaa3f136eb0588f4d/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/griff/.gradle/caches/transforms-3/bfd667ceea8c66caaa3f136eb0588f4d/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/griff/.gradle/caches/transforms-3/b8494797f1f61ab22de8a3c332fba216/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/griff/.gradle/caches/transforms-3/b8494797f1f61ab22de8a3c332fba216/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/griff/.gradle/caches/transforms-3/9e96f5fe66a2e3834e9d5c7c0673d19d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/griff/.gradle/caches/transforms-3/9e96f5fe66a2e3834e9d5c7c0673d19d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/griff/.gradle/caches/transforms-3/abb2d2380b249e0db178a01e42b3a532/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/griff/.gradle/caches/transforms-3/abb2d2380b249e0db178a01e42b3a532/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/griff/.gradle/caches/transforms-3/fa18ea3694ff1da0bdfeef6e2621dfb7/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/griff/.gradle/caches/transforms-3/fa18ea3694ff1da0bdfeef6e2621dfb7/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/griff/.gradle/caches/transforms-3/b856b60e4fe177e3c70811c7841243a3/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/griff/.gradle/caches/transforms-3/b856b60e4fe177e3c70811c7841243a3/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/griff/.gradle/caches/transforms-3/a7b614aa49b2d322700232e66cbb2ec0/transformed/ui-tooling-1.2.1/AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/griff/.gradle/caches/transforms-3/a7b614aa49b2d322700232e66cbb2ec0/transformed/ui-tooling-1.2.1/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/griff/.gradle/caches/transforms-3/a7b614aa49b2d322700232e66cbb2ec0/transformed/ui-tooling-1.2.1/AndroidManifest.xml:25:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/griff/.gradle/caches/transforms-3/abb2d2380b249e0db178a01e42b3a532/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/griff/.gradle/caches/transforms-3/abb2d2380b249e0db178a01e42b3a532/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:29:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82

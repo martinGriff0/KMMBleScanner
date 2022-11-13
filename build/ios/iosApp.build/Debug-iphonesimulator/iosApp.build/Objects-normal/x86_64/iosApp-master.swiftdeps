@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "35ca80e76918fea1fb9cfb44bf3c1635f7e2266279714d172ef03e01e00e9d2e"
+build_start_time: [1668097280, 428781986]
+build_end_time: [1668097282, 158234119]
+inputs:
+  "/Users/griff/AndroidStudioProjects/KMMBleScanner/iosApp/iosApp/ContentView.swift": [1668095424, 563941001]
+  "/Users/griff/AndroidStudioProjects/KMMBleScanner/iosApp/iosApp/iOSApp.swift": [1668095424, 567494630]

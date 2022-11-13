@@ -1,0 +1,122 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.kmmblescanner.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml
+10
+11    <!-- Between Android N and R, fine location access is needed for scanning for nearby devices -->
+12    <uses-permission android:name="android.permission.ACCESS_BLUETOOTH_ADMIN" />
+12-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:5:5-81
+12-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:5:22-78
+13    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+13-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:6:5-85
+13-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:6:22-82
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:7:5-79
+14-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:7:22-76
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:8:5-81
+15-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:8:22-78
+16    <!-- Allows applications to discover and pair bluetooth devices. -->
+17    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+17-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:10:5-74
+17-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:10:22-71
+18    <!-- Allows applications to connect to paired bluetooth devices. -->
+19    <uses-permission android:name="android.permission.BLUETOOTH" />
+19-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:12:5-68
+19-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:12:22-65
+20    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+20-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:13:5-76
+20-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:13:22-73
+21    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+21-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:14:5-73
+21-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:14:22-70
+22    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+22-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:15:5-77
+22-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:15:22-74
+23
+24    <application
+24-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:17:5-29:19
+25        android:allowBackup="false"
+25-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:18:9-36
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.8.0] /Users/griff/.gradle/caches/transforms-3/10634acf96c8b2d41780170076f28ac9/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:supportsRtl="true"
+28-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:19:9-35
+29        android:theme="@style/AppTheme" >
+29-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:20:9-40
+30        <activity
+30-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:21:9-28:20
+31            android:name="com.example.kmmblescanner.android.MainActivity"
+31-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:22:13-41
+32            android:exported="true" >
+32-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:23:13-36
+33            <intent-filter>
+33-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:24:13-27:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:25:17-69
+34-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:25:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:26:17-77
+36-->/Users/griff/AndroidStudioProjects/KMMBleScanner/androidApp/src/main/AndroidManifest.xml:26:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->[androidx.compose.ui:ui-tooling:1.2.1] /Users/griff/.gradle/caches/transforms-3/a7b614aa49b2d322700232e66cbb2ec0/transformed/ui-tooling-1.2.1/AndroidManifest.xml:24:9-26:39
+40            android:name="androidx.compose.ui.tooling.PreviewActivity"
+40-->[androidx.compose.ui:ui-tooling:1.2.1] /Users/griff/.gradle/caches/transforms-3/a7b614aa49b2d322700232e66cbb2ec0/transformed/ui-tooling-1.2.1/AndroidManifest.xml:25:13-71
+41            android:exported="true" />
+41-->[androidx.compose.ui:ui-tooling:1.2.1] /Users/griff/.gradle/caches/transforms-3/a7b614aa49b2d322700232e66cbb2ec0/transformed/ui-tooling-1.2.1/AndroidManifest.xml:26:13-36
+42
+43        <provider
+43-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+44            android:name="androidx.startup.InitializationProvider"
+44-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+45            android:authorities="com.example.kmmblescanner.android.androidx-startup"
+45-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+46            android:exported="false" >
+46-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+47            <meta-data
+47-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+48                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+48-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+49                android:value="androidx.startup" />
+49-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+50        </provider>
+51
+52        <receiver
+52-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+53            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+53-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+54            android:directBootAware="false"
+54-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+55            android:enabled="true"
+55-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+56            android:exported="true"
+56-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+57            android:permission="android.permission.DUMP" >
+57-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+58            <intent-filter>
+58-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+59                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+59-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+59-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+60            </intent-filter>
+61            <intent-filter>
+61-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+62                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+62-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+62-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/griff/.gradle/caches/transforms-3/6ad99b5f2a8ed7840da5292b09cc590c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82
+63            </intent-filter>
+64        </receiver>
+65    </application>
+66
+67</manifest>
